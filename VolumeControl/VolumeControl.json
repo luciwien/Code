@@ -1,0 +1,199 @@
+﻿{
+  "LanguageName": "English (US/CA)",
+  "LogMissingTranslations": true,
+  "LocalizationDirectories": [],
+  "AllowMultipleDistinctInstances": false,
+  "RunAtStartup": true,
+  "StartMinimized": true,
+  "ShowInTaskbar": true,
+  "AlwaysOnTop": false,
+  "DeleteHotkeyConfirmation": true,
+  "ShowIcons": true,
+  "CustomAddonDirectories": [],
+  "AllowTransparency": true,
+  "KeepRelativePosition": false,
+  "RestoreMainWindowPosition": false,
+  "MainWindowOriginCorner": "TopLeft",
+  "MainWindowPosition": null,
+  "SessionListNotificationConfig": {
+    "Enabled": true,
+    "ShowOnVolumeChanged": true,
+    "TimeoutEnabled": true,
+    "TimeoutMs": 3000,
+    "Position": "1907.0866666666666,1021.7333333333333",
+    "PositionOriginCorner": "BottomRight",
+    "DoFadeIn": true,
+    "FadeInDuration": "00:00:00.1500000",
+    "DoFadeOut": true,
+    "FadeOutDuration": "00:00:00.7500000",
+    "ViewMode": "Everything",
+    "BackgroundColor": "#FF252525",
+    "LockedColor": "#FFA32828",
+    "UnlockedColor": "#FF496D49",
+    "TextColor": "#FFF5F5F5",
+    "CornerRadius": "19,19,19,19"
+  },
+  "DeviceListNotificationConfig": {
+    "Enabled": true,
+    "ShowOnVolumeChanged": true,
+    "TimeoutEnabled": true,
+    "TimeoutMs": 3000,
+    "Position": "1909.6599999999999,1021.5699999999999",
+    "PositionOriginCorner": "BottomRight",
+    "DoFadeIn": true,
+    "FadeInDuration": "00:00:00.1500000",
+    "DoFadeOut": true,
+    "FadeOutDuration": "00:00:00.7500000",
+    "ViewMode": "Everything",
+    "BackgroundColor": "#FF252525",
+    "LockedColor": "#FFA73374",
+    "UnlockedColor": "#FF498049",
+    "TextColor": "#FFF5F5F5",
+    "CornerRadius": "19,19,19,19"
+  },
+  "NotificationMoveRequiresAlt": false,
+  "NotificationSavePos": true,
+  "NotificationExtraMouseControlsEnabled": true,
+  "CheckForUpdates": true,
+  "ShowUpdatePrompt": true,
+  "Hotkeys": [
+    {
+      "Name": "Device:Volume Up",
+      "Key": 131,
+      "Modifiers": 0,
+      "IsRegistered": true,
+      "ActionIdentifier": "Device:Volume Up",
+      "ActionSettings": {
+        "Volume Step Override": {
+          "$Enabled": false,
+          "Value": 2
+        }
+      }
+    },
+    {
+      "Name": "Device:Volume Down",
+      "Key": 130,
+      "Modifiers": 0,
+      "IsRegistered": true,
+      "ActionIdentifier": "Device:Volume Down",
+      "ActionSettings": {
+        "Volume Step Override": {
+          "$Enabled": false,
+          "Value": 2
+        }
+      }
+    },
+    {
+      "Name": "Toggle Mute",
+      "Key": 129,
+      "Modifiers": 0,
+      "IsRegistered": true,
+      "ActionIdentifier": "Session:Toggle Mute",
+      "ActionSettings": {
+        "Target Override(s)": [],
+        "Select Target Override(s)": false
+      }
+    },
+    {
+      "Name": "Next Session",
+      "Key": 48,
+      "Modifiers": 7,
+      "IsRegistered": true,
+      "ActionIdentifier": "Session:Select Next",
+      "ActionSettings": {}
+    },
+    {
+      "Name": "Previous Session",
+      "Key": 60,
+      "Modifiers": 7,
+      "IsRegistered": true,
+      "ActionIdentifier": "Session:Select Previous",
+      "ActionSettings": {}
+    },
+    {
+      "Name": "Un/Lock Session",
+      "Key": 62,
+      "Modifiers": 7,
+      "IsRegistered": true,
+      "ActionIdentifier": "Session:Toggle Lock",
+      "ActionSettings": {}
+    },
+    {
+      "Name": "Toggle Selected",
+      "Key": 66,
+      "Modifiers": 7,
+      "IsRegistered": true,
+      "ActionIdentifier": "Session:Toggle Selected",
+      "ActionSettings": {}
+    },
+    {
+      "Name": "Discord",
+      "Key": 111,
+      "Modifiers": 0,
+      "IsRegistered": true,
+      "ActionIdentifier": "Session:Volume Down",
+      "ActionSettings": {
+        "Target Override(s)": [
+          "Discord"
+        ],
+        "Select Target Override(s)": false,
+        "Volume Step Override": {
+          "$Enabled": false,
+          "Value": 2
+        }
+      }
+    },
+    {
+      "Name": "Discord",
+      "Key": 112,
+      "Modifiers": 0,
+      "IsRegistered": true,
+      "ActionIdentifier": "Session:Toggle Mute",
+      "ActionSettings": {
+        "Target Override(s)": [
+          "Discord"
+        ],
+        "Select Target Override(s)": false
+      }
+    },
+    {
+      "Name": "Discord",
+      "Key": 113,
+      "Modifiers": 0,
+      "IsRegistered": true,
+      "ActionIdentifier": "Session:Volume Up",
+      "ActionSettings": {
+        "Target Override(s)": [
+          "Discord"
+        ],
+        "Select Target Override(s)": false,
+        "Volume Step Override": {
+          "$Enabled": false,
+          "Value": 2
+        }
+      }
+    }
+  ],
+  "TargetSession": {
+    "PID": null,
+    "ProcessName": "14944:Discord:O",
+    "SessionInstanceIdentifier": ""
+  },
+  "SelectedSessions": [],
+  "LockTargetSession": false,
+  "TargetDeviceID": "",
+  "LockTargetDevice": false,
+  "VolumeStepSize": 2,
+  "PeakMeterUpdateIntervalMs": 100,
+  "ShowPeakMeters": true,
+  "EnableDeviceControl": false,
+  "HiddenSessionProcessNames": [],
+  "EnableInputDevices": false,
+  "EnableLogging": true,
+  "LogPath": "VolumeControl.log",
+  "LogFilter": 62,
+  "LogClearOnInitialize": true,
+  "__VERSION__": {
+    "SemVersion": "6.6.3"
+  }
+}

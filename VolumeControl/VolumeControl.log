@@ -1,0 +1,129 @@
+﻿HH:mm:ss:fff              === Log Initialized @ Monday, 15 September 2025 02:00:55 ===  { LogFilter: 62 (INFO, WARN, ERROR, CRITICAL, FATAL) }
+04:00:55:499  [INFO]      Config Path: "VolumeControl.json"
+                          Log Path:    "VolumeControl.log"
+04:00:55:516  [INFO]      Changed application working directory to 'C:\Users\lprab\Downloads' (Was 'C:\WINDOWS\system32').
+04:00:55:516  [INFO]      Config version is 0.0.0, settings will be migrated to version 6.6.3.
+04:00:55:885  [INFO]      Volume Control version 6.6.3 (Portable)
+04:00:55:926  [INFO]      Microsoft Windows 11 Pro (64-bit)
+04:00:56:984  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.MainWindow.Settings.Audio.AdditionalSettings.Header.Tooltip"
+04:00:56:986  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.MainWindow.Settings.Audio.AdditionalSettings.HiddenSessions.Tooltip"
+04:00:57:002  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.MainWindow.Settings.Notifications.AdditionalSettings.Header.Tooltip"
+04:00:57:003  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.ListNotification.Options.SavePosition.Tooltip"
+04:00:57:003  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.ListNotification.Options.SavePosition.Tooltip"
+04:00:57:004  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.MainWindow.Settings.Notifications.SessionListNotificationConfig.Header.Tooltip"
+04:00:57:006  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.MainWindow.Settings.Notifications.DeviceListNotificationConfig.Header.Tooltip"
+04:00:57:019  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.MainWindow.Settings.Application.ShowInTaskbar.Tooltip"
+04:00:57:019  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "VolumeControl.MainWindow.Settings.Application.AlwaysOnTop.Tooltip"
+04:20:35:569  [INFO]      Removing Audio Device: ZOWIE XL LCD
+04:20:35:719  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:20:35:819  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:20:35:916  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:20:35:935  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:20:35:954  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:20:36:067  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:20:36:178  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:45:51:488  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:45:51:588  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:45:51:608  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:45:51:627  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:45:51:738  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:45:51:853  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+04:45:52:023  [INFO]      Adding Audio Device: ZOWIE XL LCD
+05:01:24:807  [INFO]      Removing Audio Device: ZOWIE XL LCD
+05:01:24:953  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+05:01:25:050  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+05:01:25:147  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+05:01:25:166  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+05:01:25:185  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+05:01:25:295  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+05:01:25:413  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+07:21:36:026  [INFO]      Removing Audio Device: Headphones
+07:21:38:415  [INFO]      Adding Audio Device: Headphones
+09:38:58:628  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:38:58:732  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:38:58:751  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:38:58:770  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:38:58:887  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:38:59:000  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:38:59:168  [INFO]      Adding Audio Device: ZOWIE XL LCD
+09:53:53:921  [INFO]      Removing Audio Device: ZOWIE XL LCD
+09:53:54:070  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:53:54:167  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:53:54:265  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:53:54:284  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:53:54:305  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:53:54:417  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+09:53:54:528  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:33:24:174  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:33:24:279  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:33:24:298  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:33:24:317  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:33:24:429  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:33:24:544  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:33:24:713  [INFO]      Adding Audio Device: ZOWIE XL LCD
+10:59:07:730  [INFO]      Removing Audio Device: ZOWIE XL LCD
+10:59:07:893  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:59:07:990  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:59:08:086  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:59:08:105  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:59:08:124  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:59:08:235  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+10:59:08:353  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+11:18:54:254  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+11:18:54:355  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+11:18:54:374  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+11:18:54:393  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+11:18:54:505  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+11:18:54:615  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+11:18:54:781  [INFO]      Adding Audio Device: ZOWIE XL LCD
+11:45:21:624  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.VolumeUp"
+11:45:21:625  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.VolumeDown"
+11:45:21:626  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.VolumeMute"
+11:45:21:626  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.E"
+11:45:21:627  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.Q"
+11:45:21:628  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.S"
+11:45:21:629  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.W"
+11:45:21:629  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.F22"
+11:45:21:630  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.F23"
+11:45:21:631  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.F24"
+11:45:21:673  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.F24"
+11:45:21:674  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.F23"
+11:45:21:674  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.F22"
+11:45:21:674  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.W"
+11:45:21:675  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.S"
+11:45:21:675  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.Q"
+11:45:21:675  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.E"
+11:45:21:675  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.VolumeMute"
+11:45:21:676  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.VolumeDown"
+11:45:21:676  [WARN]      [LocalizationHelper] "English (US/CA)" is missing a translation for key "Enums.EFriendlyKey.VolumeUp"
+12:36:00:885  [INFO]      Removing Audio Device: ZOWIE XL LCD
+12:36:01:064  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+12:36:01:173  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+12:36:01:273  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+12:36:01:292  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+12:36:01:311  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+12:36:01:425  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+12:36:01:538  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:07:11:552  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:07:11:654  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:07:11:673  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:07:11:692  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:07:11:805  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:07:11:925  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:07:12:104  [INFO]      Adding Audio Device: ZOWIE XL LCD
+13:25:34:014  [INFO]      Removing Audio Device: ZOWIE XL LCD
+13:25:34:191  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:25:34:290  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:25:34:388  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:25:34:407  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:25:34:428  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:25:34:541  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:25:34:656  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:48:38:253  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:48:38:355  [ERROR]     AudioDevice 'ZOWIE XL LCD' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:48:38:373  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:48:38:392  [ERROR]     AudioDevice 'NVIDIA Output' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:48:38:505  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:48:38:617  [ERROR]     AudioDevice 'DENON-AVR' state changed to NotPresent; cannot remove it from the list because it doesn't exist!
+13:48:38:787  [INFO]      Adding Audio Device: ZOWIE XL LCD
+15:56:37:109  [INFO]      App exited with code 0
