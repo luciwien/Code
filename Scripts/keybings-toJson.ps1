@@ -26,7 +26,12 @@ foreach ($line in $lines) {
         }
         
     }
-}
+} 
+<#
+QWERTZUIOPÜ
+ASDFGHJKLÖÄ
+<YXCVBNM;:_
+#>
 
 
 ConvertTo-Json -InputObject $aliases | Out-File -FilePath "aliases.json"

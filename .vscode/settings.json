@@ -1,20 +1,27 @@
 {
- "emeraldwalk.runonsave": {
-   "commands": [
-     {
-       // Match all html, css, and js files
-       // except for `exclude-me.js`
-       "match": "Scripts\\\\profile.ps1",
-       //"notMatch": "exclude-me\\.js$",
-       "cmd": "xcopy  ${workspaceFolder}\\Scripts\\profile.ps1 C:\\Users\\lprab\\Documents\\WindowsPowerShell  /s /e /y"
-     },
+  "emeraldwalk.runonsave": {
+    "commands": [
       {
-       // Match all html, css, and js files
-       // except for `exclude-me.js`
-       "match": "Config\\.*",
-       //"notMatch": "exclude-me\\.js$",
-       "cmd": "xcopy  ${workspaceFolder}\\Config\\* \"B:\\SteamLibrary\\steamapps\\common\\Counter-Strike Global Offensive\\game\\csgo\\cfg\\*\"  /s /e /y"
-     }
-   ]
- }
+        // Match all html, css, and js files
+        // except for `exclude-me.js`
+        "match": "Scripts\\\\profile.ps1",
+        //"notMatch": "exclude-me\\.js$",
+        "cmd": "xcopy  ${workspaceFolder}\\Scripts\\profile.ps1 C:\\Users\\lprab\\Documents\\WindowsPowerShell  /s /e /y"
+      },
+      {
+        // Match all html, css, and js files
+        // except for `exclude-me.js`
+        "match": "Config\\.*",
+        //"notMatch": "exclude-me\\.js$",
+        "cmd": "xcopy  ${workspaceFolder}\\Config\\* \"B:\\SteamLibrary\\steamapps\\common\\Counter-Strike Global Offensive\\game\\csgo\\cfg\\*\"  /s /e /y"
+      },
+      {
+        // Match all html, css, and js files
+        // except for `exclude-me.js`
+        "match": "obsidian\\\\snippets\\\\.*",
+        //"notMatch": "exclude-me\\.js$",
+        "cmd": "xcopy  ${workspaceFolder}\\obsidian\\snippets\\* C:\\Users\\lprab\\iCloudDrive\\iCloud~md~obsidian\\Paperlapapp\\.obsidian\\snippets\\  /s /e /y"
+      },
+    ]
+  }
 }
