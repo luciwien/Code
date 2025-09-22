@@ -1,0 +1,1 @@
+Get-Content -tail 10 -Wait -Path "B:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\console.log" -Filter "snd_voip*"
