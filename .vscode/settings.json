@@ -20,7 +20,7 @@
         // except for `exclude-me.js`
         "match": "obsidian\\\\snippets\\\\.*",
         //"notMatch": "exclude-me\\.js$",
-        "cmd": "xcopy  ${workspaceFolder}\\obsidian\\snippets\\* C:\\Users\\lprab\\iCloudDrive\\iCloud~md~obsidian\\Paperlapapp\\.obsidian\\snippets\\  /s /e /y"
+        "cmd": "xcopy  ${workspaceFolder}\\obsidian\\snippets\\* C:\\Users\\lprab\\Documents\\iCloudDrive\\iCloud~md~obsidian\\Paperlapapp\\.obsidian\\snippets\\  /s /e /y"
       },
     ]
   }
