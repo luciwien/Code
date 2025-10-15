@@ -11,9 +11,9 @@
       {
         // Match all html, css, and js files
         // except for `exclude-me.js`
-        "match": "Config\\.*",
+        "match": "CS\\\\Config\\\\.*",
         //"notMatch": "exclude-me\\.js$",
-        "cmd": "xcopy  ${workspaceFolder}\\Config\\* \"B:\\SteamLibrary\\steamapps\\common\\Counter-Strike Global Offensive\\game\\csgo\\cfg\\*\"  /s /e /y"
+        "cmd": "xcopy  ${workspaceFolder}\\CS\\Config\\* \"B:\\SteamLibrary\\steamapps\\common\\Counter-Strike Global Offensive\\game\\csgo\\cfg\\*\"  /s /e /y"
       },
       {
         // Match all html, css, and js files
