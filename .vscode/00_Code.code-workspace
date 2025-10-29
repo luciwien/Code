@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"emeraldwalk.runonsave": {
+			"commands": [
+				{
+					"match": "Scripts\\\\profile.ps1",
+					"cmd": "xcopy  ${workspaceFolder}\\Scripts\\profile.ps1 C:\\Users\\lprab\\Documents\\WindowsPowerShell  /s /e /y"
+				},
+				{
+					"match": "CS\\\\Config\\\\.*",
+					"cmd": "xcopy  ${workspaceFolder}\\CS\\Config\\* \"B:\\SteamLibrary\\steamapps\\common\\Counter-Strike Global Offensive\\game\\csgo\\cfg\\*\"  /s /e /y"
+				},
+				{
+					"match": "obsidian\\\\snippets\\\\.*",
+					"cmd": "xcopy  ${workspaceFolder}\\obsidian\\snippets\\* C:\\Users\\lprab\\Documents\\iCloudDrive\\iCloud~md~obsidian\\Paperlapapp\\.obsidian\\snippets\\  /s /e /y"
+				}
+			]
+		}
+	}
+}
