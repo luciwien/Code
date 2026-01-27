@@ -1,0 +1,601 @@
+// csdm video --config-file "E:\configs\record.jsonc" --encoder-software FFmpeg
+
+{
+  // Required demo path
+  "demoPath": "E:\\cs\\demo.dem",
+  // Optional overrides (fallback to CS:DM settings)
+  "framerate": 60,
+  "width": 1920,
+  "height": 1080,
+  "concatenateSequences": true,
+  "ffmpegSettings": {
+    "videoCodec": "libx264",
+    "videoContainer": "mp4",
+  },
+}
+
+{
+  "demoPath": "B:\\Recordings\\Demos\\260111-1330-G2-Mirage-401b903f-37d6-4335-b38d-cb216c9e7cf4-1-1.dem",
+  "outputFolderPath": "B:\\Recordings\\Demos",
+  "recordingSystem": "HLAE",
+  "recordingOutput": "video",
+  "encoderSoftware": "FFmpeg",
+  "width": 1280,
+  "height": 720,
+  "framerate": 30,
+  "closeGameAfterRecording": true,
+  "concatenateSequences": false,
+  "ffmpegSettings": {
+    "audioBitrate": 256,
+    "constantRateFactor": 23,
+    "customLocationEnabled": false,
+    "customExecutableLocation": "",
+    "videoContainer": "avi",
+    "videoCodec": "libx264",
+    "audioCodec": "libmp3lame",
+    "inputParameters": "",
+    "outputParameters": ""
+  },
+  "sequences": [
+    {
+      "number": 1,
+      "startTick": 6796,
+      "endTick": 10585,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 6796,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 2,
+      "startTick": 12563,
+      "endTick": 14918,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 12563,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 3,
+      "startTick": 16518,
+      "endTick": 20276,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 16518,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 4,
+      "startTick": 22808,
+      "endTick": 26681,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 22808,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 5,
+      "startTick": 28901,
+      "endTick": 34962,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 28901,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 6,
+      "startTick": 37280,
+      "endTick": 40903,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 37280,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 7,
+      "startTick": 42503,
+      "endTick": 43375,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 42503,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 8,
+      "startTick": 45954,
+      "endTick": 47511,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 45954,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 9,
+      "startTick": 49111,
+      "endTick": 50751,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 49111,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 10,
+      "startTick": 55733,
+      "endTick": 60092,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 55733,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 11,
+      "startTick": 61692,
+      "endTick": 65155,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 61692,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 12,
+      "startTick": 67065,
+      "endTick": 72269,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 67065,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 13,
+      "startTick": 75471,
+      "endTick": 78858,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 75471,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 14,
+      "startTick": 80458,
+      "endTick": 82134,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 80458,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 15,
+      "startTick": 83767,
+      "endTick": 87728,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 83767,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 16,
+      "startTick": 89672,
+      "endTick": 92460,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 89672,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 17,
+      "startTick": 95292,
+      "endTick": 98102,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 95292,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 18,
+      "startTick": 102086,
+      "endTick": 105978,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 102086,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 19,
+      "startTick": 107578,
+      "endTick": 110269,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 107578,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 20,
+      "startTick": 111869,
+      "endTick": 117795,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 111869,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 21,
+      "startTick": 119395,
+      "endTick": 121470,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 119395,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 22,
+      "startTick": 126450,
+      "endTick": 128876,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 126450,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 23,
+      "startTick": 131366,
+      "endTick": 133482,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 131366,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 24,
+      "startTick": 137582,
+      "endTick": 142236,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 137582,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 25,
+      "startTick": 147435,
+      "endTick": 149419,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 147435,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 26,
+      "startTick": 151019,
+      "endTick": 155474,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 151019,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 27,
+      "startTick": 157212,
+      "endTick": 159992,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 157212,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    },
+    {
+      "number": 28,
+      "startTick": 165816,
+      "endTick": 168838,
+      "showOnlyDeathNotices": false,
+      "deathNoticesDuration": 5,
+      "showXRay": true,
+      "showAssists": true,
+      "recordAudio": true,
+      "playerVoicesEnabled": true,
+      "playersOptions": [],
+      "playerCameras": [
+        {
+          "tick": 165816,
+          "playerSteamId": "76561198039029597",
+          "playerName": "pogerl-"
+        }
+      ],
+      "cameras": []
+    }
+  ]
+}
