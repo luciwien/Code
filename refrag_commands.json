@@ -1,0 +1,1328 @@
+[
+  {
+    "Name": "",
+    "Command": ".autoreset",
+    "Description": "Toggle whether or not game should fully reset everytime you die",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".autoskip",
+    "Description": "Toggle whether or not you should skip arenas after failing 3 times in a row (Smart)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".blood",
+    "Description": "Toggle blood",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botrush",
+    "Description": "Toggle whether or not specific bot can rush after swinging",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botsaware",
+    "Description": "Are bots aware of players positions once they start rushing",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".canpeekbeforeutil",
+    "Description": "Toggle whether or not bots can peek before they throw their set util",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".canspin",
+    "Description": "Toggle whether or not bots can do 360 mid air while jumping with a scoped weapon",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".canspray",
+    "Description": "Toggle whether or not bots can spray (Combine with .cansway and .aimoffset for randomness)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".canspraytransfer",
+    "Description": "Creator Studio Command canspraytransfer",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".cansway",
+    "Description": "Toggle whether or not bots can sway with their aim (Be inaccurate, used with .aimoffset)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".canutil",
+    "Description": "Toggle whether or not bots can throw util",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearseed",
+    "Description": "Clears seed set by .seed command",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".defuseactivationchance",
+    "Description": "Creator Studio Command defuseactivationchance",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delay",
+    "Description": "Set the delay until next bot peeks",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".dev",
+    "Description": "Enable developer mode",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".duckchance",
+    "Description": "Set the amount of chance that the bot will duck",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".endless",
+    "Description": "Toggle endless mode",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".headshot",
+    "Description": "Toggle whether or not bots should only take damage from headshots",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".jigglechance",
+    "Description": "Set the amount of chance that the bot will jiggle",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".jumpchance",
+    "Description": "Set the amount of chance that the bot will jump",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".n",
+    "Description": "Go to next arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".p",
+    "Description": "Go to previous arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".poparea",
+    "Description": "Draw target practice spawn area",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".popclearareas",
+    "Description": "Clear all areas",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".popdelarea",
+    "Description": "Deletes area closest to your aim",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".r",
+    "Description": "Restart the game",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".repeat",
+    "Description": "Repeat active arena or by index",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".restart",
+    "Description": "Restart the game",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".rushchance",
+    "Description": "Set the amount of chance that the bot will rush you",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".seed",
+    "Description": "Sets the seed to use for the entire set (Randomization)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".start",
+    "Description": "Start the game",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".swingers",
+    "Description": "Set amount of swingers",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".turtlechance",
+    "Description": "Set the amount of chance that the bot will turtle peek",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".utilchance",
+    "Description": "Set the amount of chance that the bot will throw set util",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".utilcooldown",
+    "Description": "Set the global cooldown of how often one piece of utility can be thrown",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".utilmode",
+    "Description": "Set utility throw mode (Normal, Mixed, Ordered)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".addarena",
+    "Description": "Add a new arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".addbot",
+    "Description": "Add a bot",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".addbotgroup",
+    "Description": "Add a bot group",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".addinferno",
+    "Description": "Add a inferno for smoke arena type",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".addsmoke",
+    "Description": "Add a smoke for smoke arena type",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".addspawn",
+    "Description": "Add a spawn point",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".addutil",
+    "Description": "Add util to be thrown after X seconds delay after arena starts",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".aimoffset",
+    "Description": "Sets how far off target the bots aim can be",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".aimspeed",
+    "Description": "Set bots aim speed",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".alwaysspawnfirstbot",
+    "Description": "Always includes the first bot index no matter what settings",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".alwaysspawnlastbot",
+    "Description": "Always includes the last bot index no matter what settings",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".arenas",
+    "Description": "List arenas or select an arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".arenastatus",
+    "Description": "Prints selected arena info to console",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".arenaswingers",
+    "Description": "Specify the max amount of swingers at once for the arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".arenateam",
+    "Description": "Change team of arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".arenatype",
+    "Description": "Set the type of arena this is",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".armor",
+    "Description": "Toggles bot kevlar by default, toggles player kevlar if pvpmode is on",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".attackontitan",
+    "Description": "",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botactivation",
+    "Description": "Trigger certain bots to swing after default/defusing/standing in zone/in line of sight with a point",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botalwaysduck",
+    "Description": "Toggle whether or not specific bot will always duck",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botalwayspeekbeforeutil",
+    "Description": "Toggle whether or not specific bot will always peek before throwing set util",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botalwaysturtle",
+    "Description": "Toggle whether or not specific bot will always turtle peek",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botarmor",
+    "Description": "Toggle bot kevlar modes",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botautozone",
+    "Description": "Creator Studio Command botautozone",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botdir",
+    "Description": "Set bot swing direction",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botdir2",
+    "Description": "Set bot swing direction but by dir first then index",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botdisplacement",
+    "Description": "Set bots maximum position displacement",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botduck",
+    "Description": "Toggle whether or not specific bot can duck",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botgroupswingers",
+    "Description": "Specify the max amount of swingers at once for the botgroup (Overrides arenaswingers)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botgun",
+    "Description": "Set bot gun",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botguns",
+    "Description": "Set bots default gun",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".bothealth",
+    "Description": "Set bot health",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botjiggle",
+    "Description": "Toggle whether or not specific bot can jiggle",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botjump",
+    "Description": "Toggle whether or not specific bot can jump",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botkevlar",
+    "Description": "Toggle bot kevlar modes",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botmaxdelay",
+    "Description": "Set the max amount of delay until specific bot peeks",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botmindelay",
+    "Description": "Set the min amount of delay until specific bot peeks",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botname",
+    "Description": "Creator Studio Command botname",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botpeekgroup",
+    "Description": "Set bot peek group (More on this on our wiki)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botpos",
+    "Description": "Set bot position",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botrecord",
+    "Description": "Starts recording movement for a bot to playback during gameplay",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botrecordclear",
+    "Description": "Clear bot recording",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botrecordtest",
+    "Description": "Tests the bots recording",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botutil",
+    "Description": "Sets the specific bots util to whatever util you threw most recently",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botutilchance",
+    "Description": "Sets the chance for a specific bot to throw util (Overrides .utilchance if value is 0 - 100, -1 to disable)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botutilclear",
+    "Description": "Clears all util for specific bot",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botutiltest",
+    "Description": "Tests the specific bots util",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botwidest",
+    "Description": "Set the widest angle position (More on this on our wiki)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".botzone",
+    "Description": "Creator Studio Command botzone",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".breakvents",
+    "Description": "Breaks vents/glass when arena starts",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".canshoot",
+    "Description": "Toggle whether or not bots can shoot",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clear",
+    "Description": "Clears all active smokes/infernos and airborne projectiles",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearactivationpoints",
+    "Description": "Clear all activation points",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearactivationzones",
+    "Description": "Clear all activation zones",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearfailzones",
+    "Description": "Clear all fail zones",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearinfernos",
+    "Description": "Clear added infernos for arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearpath",
+    "Description": "Clears the entire path",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearsmokes",
+    "Description": "Clear added smokes for arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearutil",
+    "Description": "Clear all arena utility",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".clearutilactivation",
+    "Description": "Clear all util activations for activation zone (Stand in the zone first)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".competitivearena",
+    "Description": "Should selected arena be included or not in .comp mode",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".compfailsuntilskip",
+    "Description": "How many consecutive arenas can a player fail until it auto skips during competitive",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".completiontype",
+    "Description": "Creator Studio Command completiontype",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".completionvalue",
+    "Description": "Creator Studio Command completionvalue",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".comppenaltyskip",
+    "Description": "How much time/score should a player gain/lose if he auto skips during competitive",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".ct",
+    "Description": "Set player team to counter-terrorists",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delactivationpoint",
+    "Description": "Delete the activation point you're currently aiming at",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delactivationzone",
+    "Description": "Delete the activation zone you're currently standing in",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delarena",
+    "Description": "Delete an arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delbot",
+    "Description": "Delete a bot",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delbotgroup",
+    "Description": "Delete a bot group",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delfailzone",
+    "Description": "Delete the fail zone you're currently standing in",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delpath",
+    "Description": "Deletes the last point in the path",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delpreset",
+    "Description": "Deletes a preset by name",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delspawn",
+    "Description": "Delete a spawn point",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delutil",
+    "Description": "Delete arena utility by index",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".delutilactivation",
+    "Description": "Delete a specific util activation by index (Stand in the zone first)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".dodgespeed",
+    "Description": "Set bots dodge aim speed (Flashbangs)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".doorstate",
+    "Description": "Cycle between the state of all doors for selected arena (Closed, Open, Destroyed)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".drawactivationpoint",
+    "Description": "Draw a point which will actiate set bots when in line of sight with a player",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".drawactivationzone",
+    "Description": "Draw a zone which will activate set bots",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".drawcollisioncheck",
+    "Description": "Draws a zone .testcollisions will use when testing bots for collisions with terrain",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".drawfailzone",
+    "Description": "Draw a zone which will reset the active arena if entered",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".drawpath",
+    "Description": "Draw the path to follow for selected arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".dupearena",
+    "Description": "Duplicate an existing arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".dupebot",
+    "Description": "Duplicate an existing bot",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".dupebotgroup",
+    "Description": "Duplicate an existing bot group",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".dupespawn",
+    "Description": "Duplicate an existing spawn point",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".exportsettings",
+    "Description": "Exports your current settings to console",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".failzonemessage",
+    "Description": "Creator Studio Command failzonemessage",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".firstbotinstapeek",
+    "Description": "Creator Studio Command firstbotinstapeek",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".importsettings",
+    "Description": "Import a setting string (MUST BE USED IN CONSOLE AS 'say .importsettings <settingstring>')",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".insertarena",
+    "Description": "Creator Studio Command insertarena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".insertbot",
+    "Description": "Creator Studio Command insertbot",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".insertbotgroup",
+    "Description": "Creator Studio Command insertbotgroup",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".insertspawn",
+    "Description": "Creator Studio Command insertspawn",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".jiggles",
+    "Description": "Set the max amount of jiggles a bot can perform",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kevlar",
+    "Description": "Toggles bot kevlar by default, toggles player kevlar if pvpmode is on",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzgridang",
+    "Description": "Sets the amount of units props angles should snap to",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzgridautosnap",
+    "Description": "Turns on auto snapping for props, automatically sets .kzgridpos according to prop size",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzgridpos",
+    "Description": "Sets the amount of units props position (X Y and Z) should snap to",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzprop",
+    "Description": "Add a KZ prop",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzpropcolor",
+    "Description": "Set the color of a KZ prop (RGBA format, 255, 255, 255, 255 for white)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzpropdel",
+    "Description": "Delete KZ prop (At crosshair)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzprophealth",
+    "Description": "Set the health of a prop (0 for unbreakable)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzpropmove",
+    "Description": "Creator Studio Command kzpropmove",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzproprotate",
+    "Description": "Creator Studio Command kzproprotate",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzpropscale",
+    "Description": "Set the scale of a prop (1.0 being default)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzpropsclear",
+    "Description": "Clear all KZ props",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".kzproptype",
+    "Description": "Set the prop type (Normal, Bhop, Launch)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".maxjiggle",
+    "Description": "Set the max amount of distance bots will jiggle",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".maxjiggledelay",
+    "Description": "Set the max amount of time bots stay hidden during each jiggle",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".maxspawns",
+    "Description": "Set max amount of spawns for arenas (As a player setting)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".maxspawnsarena",
+    "Description": "Set max amount of spawns for a specific arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".maxspray",
+    "Description": "Set the max amount of bullets a bot can spray",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".maxwide",
+    "Description": "Set the max amount of distance bots will wide swing",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".minjiggle",
+    "Description": "Set the min amount of distance bots will jiggle",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".minjiggledelay",
+    "Description": "Set the min amount of time bots stay hidden during each jiggle",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".minspray",
+    "Description": "Set the min amount of bullets a bot can spray",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".minwide",
+    "Description": "Set the min amount of distance bots will wide swing",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".nospread",
+    "Description": "Toggle no weapon_accuracy_nospread",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".offangle",
+    "Description": "Set max amount of off angle a bot can spawn",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".pistol",
+    "Description": "Toggle whether or not you should only get a pistol",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".playerarmor",
+    "Description": "Toggle player kevlar modes",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".playerhealth",
+    "Description": "Set player health",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".playerkevlar",
+    "Description": "Toggle player kevlar modes",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".playerprimary",
+    "Description": "Set players default primary gun",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".playersecondary",
+    "Description": "Set players default secondary gun",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".playerweaponmode",
+    "Description": "Forces the user to use a set of weapons (Check wiki for more on how to use this command)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".pointutilchance",
+    "Description": "Sets the chance for a specific activation point to throw util (Overrides .utilchance if value is 0 - 100, -1 to disable)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".preset",
+    "Description": "Lists or loads presets",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".presets",
+    "Description": "Lists or loads presets",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".previousstats",
+    "Description": "Display stats from your previous run (Per weapon)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".pvp",
+    "Description": "Toggle pvp (To enable players to go on bot team)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".pvpmode",
+    "Description": "Toggle pvp mode (Normal crossfire behaviour, or duels behaviour)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".pvputil",
+    "Description": "Toggle whether or not players should get utility",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".random",
+    "Description": "Set percentage amount of bots to spawn",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".randomarenas",
+    "Description": "Toggle randomize arenas",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".randombotgroups",
+    "Description": "Toggle randomize bot groups",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".randombotorder",
+    "Description": "Toggle randomize which order bot spawns in",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".randomspawns",
+    "Description": "Toggle randomize spawn points",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".randomteam",
+    "Description": "Toggle whether or not teams should be random each arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".reaction",
+    "Description": "Set bots reaction time",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".renamearena",
+    "Description": "Creator Studio Command renamearena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".renamebotgroup",
+    "Description": "Creator Studio Command renamebotgroup",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".repeekreaction",
+    "Description": "Set bots repeek reaction time (When they've already spotted you once)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".resetscore",
+    "Description": "Resets your stats on scoreboard",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".resetsessions",
+    "Description": "Reset all your stats from previous runs",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".retakebombpos",
+    "Description": "Adds a possible bomb spawn position during defuse arenas",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".retakeclearbombpos",
+    "Description": "Clears all bomb spawn positions",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".revert",
+    "Description": "Revert arena changes",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".savepreset",
+    "Description": "Save current settings as a preset to your set",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".scoretype",
+    "Description": "Change the score type of set (Time/Points/Kill Time)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".seamless",
+    "Description": "Should previous arena transition seamlessly to this one",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".setpresets",
+    "Description": "Lists or loads any saved set setting presets",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".setreplay",
+    "Description": "Sets the replay of an arena (Uses your most recently played arena in any mode)",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".showpath",
+    "Description": "Toggle the path beam if there is one",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".showzone",
+    "Description": "Toggle the spawn point zone beams",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".snapshotsettings",
+    "Description": "Creator Studio Command snapshotsettings",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".spawnpos",
+    "Description": "Set spawn point position",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".spottedreaction",
+    "Description": "Set the amount reaction time should be scaled with if a bot peeks while a player is already spotted",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".spraypattern",
+    "Description": "Toggle spray pattern",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".swap",
+    "Description": "Swap team",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".swaparena",
+    "Description": "Swap arena order",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".swapbot",
+    "Description": "Swap bot order",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".swapbotgroup",
+    "Description": "Swap bot group order",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".swapspawn",
+    "Description": "Swap spawn point order",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".swingorder",
+    "Description": "Toggle the swing order of bots",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".t",
+    "Description": "Set player team to terrorists",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".takedamagereset",
+    "Description": "Should selected arena reset whenever a player takes damage",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".testbotzone",
+    "Description": "Creator Studio Command testbotzone",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".testcollisions",
+    "Description": "Tests collisions for all bot and player spawns and prints out data to console",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".testinfernos",
+    "Description": "Test arena infernos",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".testreplay",
+    "Description": "Tests replay of selected arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".testsmokes",
+    "Description": "Test arena smokes",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".testutil",
+    "Description": "Test arena utility by index",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".timed",
+    "Description": "Should the arena be timed, set to 0 if not timed",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".utiladdactivation",
+    "Description": "Trigger certain utility to be thrown after standing in an activation zone",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".utileditactivation",
+    "Description": "Edit an added utilactivation by index",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".utilgoal",
+    "Description": "Sets your most recent thrown utility as the goal if arena type is utility",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".utilgoalreq",
+    "Description": "Set the accuracy required to move onto next arena",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".utilgoalsize",
+    "Description": "Sets how large the goal zone is",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".zonedraw",
+    "Description": "Set the start point of a zone",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".zonetype",
+    "Description": "Cycle between zone types for specific spawn point",
+    "Category": "Command"
+  },
+  {
+    "Name": "",
+    "Command": ".zoneutilchance",
+    "Description": "Sets the chance for a specific activation zone to throw util (Overrides .utilchance if value is 0 - 100, -1 to disable)",
+    "Category": "Command"
+  }
+]

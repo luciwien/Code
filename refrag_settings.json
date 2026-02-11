@@ -1,0 +1,313 @@
+[
+  {
+    "Name": "",
+    "Command": ".ammomode",
+    "Description": "Toggle sv_infinite_ammo 1 or 2 (Limited clip or infinite)",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".angles",
+    "Description": "Toggle angle prints to chat",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".autobhop",
+    "Description": "Creator Studio Command autobhop",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".bhop",
+    "Description": "Creator Studio Command bhop",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".cold",
+    "Description": "Set gamemode to smart (With a cold start where you elo starts at 75% of your max)",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".collision",
+    "Description": "Toggle bot collisions",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".comp",
+    "Description": "Set gamemode to competitive",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".countdown",
+    "Description": "Set countdown timer",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".demos",
+    "Description": "Check the status of existing demos",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".duoresetondeath",
+    "Description": "Toggle whether or not arena should reset after first death",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".easy",
+    "Description": "Easy difficulty preset",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".elo",
+    "Description": "Set gamemode to practice with specific elo settings (Or check your own .smart elo)",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".forceupload",
+    "Description": "Attempt to forcefully upload any failed demos",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".hard",
+    "Description": "Hard difficulty preset",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".healthonkill",
+    "Description": "Creator Studio Command healthonkill",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".help",
+    "Description": "Show help",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".impacts",
+    "Description": "Toggle sv_showimpacts",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".impactstime",
+    "Description": "Set sv_showimpacts_time",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".importgrenadegroup",
+    "Description": "Converts a grenade group to creator studio utility arenas",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".kick",
+    "Description": "Kick players from the server",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".kickid",
+    "Description": "Kick players from the server by steam id",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".load",
+    "Description": "Load a custom set by id",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".map",
+    "Description": "Change map",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".myreplay",
+    "Description": "Creator Studio Command myreplay",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".mysets",
+    "Description": "Lists sets created by you in console",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".nohud",
+    "Description": "Toggle constant hud text if there is any",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".normal",
+    "Description": "Default difficulty preset",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".persistent",
+    "Description": "Toggle whether or not arenas should reset after death",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".popdisco",
+    "Description": "Sets random balloon colors",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".popeffects",
+    "Description": "Toggles balloon sound and particle effects",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".popgamemode",
+    "Description": "Set pop gamemode (Grid/Headshot/Scaling)",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".popmaxscale",
+    "Description": "Set the max scale of targets during pressure gamemode",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".popnogun",
+    "Description": "Removes your guns to only click to kill targets",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".poprgb",
+    "Description": "Sets balloon color by RGB values .rgb 255 255 255",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".popscale",
+    "Description": "Pop Command scale",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".popscalespeed",
+    "Description": "Set the scale speed of targets during pressure gamemode",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".popspawnfrequency",
+    "Description": "Set the spawn frequency of targets during pressure gamemode",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".poptargets",
+    "Description": "Set amount of targets to spawn",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".prac",
+    "Description": "Set gamemode to practice",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".publish",
+    "Description": "Publish currently loaded set if it belongs to you",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".replay",
+    "Description": "Show replay of current arena",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".replays",
+    "Description": "Toggle whether or not to show arena replays",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".s",
+    "Description": "Start the game",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".save",
+    "Description": "Save a custom set",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".session",
+    "Description": "Display your overall stats (Can also check by specific weapon)",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".sets",
+    "Description": "Lists sets you've subscribed to in console",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".skip",
+    "Description": "Skips an arena during exam bootcamp",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".smart",
+    "Description": "Set gamemode to smart",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".stats",
+    "Description": "Display your overall stats of your current run (Can also check by specific weapon)",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".stop",
+    "Description": "Stop the game",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".update",
+    "Description": "Update currently loaded set if it belongs to you",
+    "Category": "Settings"
+  },
+  {
+    "Name": "",
+    "Command": ".xray",
+    "Description": "Toggle xray"
+  }
+]

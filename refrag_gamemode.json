@@ -1,0 +1,351 @@
+[
+  {
+    "Name": "",
+    "Command": ".aim",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".aimbotz",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".aimbotz20",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".aimbotz360",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".aimbotz8",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".aimusp",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".alienware",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".angletrainer",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".awpflick",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".awphold",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".blast",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".blitz",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".bunnyhop",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".challenger",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".clutch",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".creatorstudio",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".crossfire",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".deathmatch",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".defender",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".duels",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".gridshot",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".jumbo",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".microflick",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".momentum",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".nadr",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".pop",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".prefire",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".pressure",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".quickscope",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".rapid",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".recoil",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".repeek",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".restrat",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".retakes",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".rush",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".scrim",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".spray",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".spraygod",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".spraylegend",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".spraymaster",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".spraynovice",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".sprayprodigy",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".sprayrookie",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".spraytitan",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".striker",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".vpl",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".waves",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".widewall",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".wingman",
+    "Description": "",
+    "Category": "Mode"
+  },
+
+  {
+    "Name": "",
+    "Command": ".xfire",
+    "Description": "",
+    "Category": "Mode"
+  }
+]
