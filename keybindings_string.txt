@@ -1,0 +1,37 @@
+|==========================================================|
+|     Z savepos | U autoskip  | I impact   | O noflash     |
+|     H goto    | J .p (prev) | K .replay  | L .n (next)   |
+|     N botadd  | M botrem    | , noflash  | . xray        |
+|--------------------------------------------------------- |
+
+|==========================================================|
+|     ESC | F1   | F2   | F3 |
+|     ^   | 1    | 2    | 3  |
+|     TAB  | Q  | W    | E  |
+|     CAPS  | A  | S    | D  |
+|     SFT | >    | Y    | X  |
+|     CTRL  | WIN  | ALT  | .  |
+|--------------------------------------------------------- |
+
+
+[Console] cl_crosshair_outlinethickness = 0.000000
+[Console] cl_crosshaircolor_r = 255
+[Console] cl_crosshaircolor_g = 0
+[Console] cl_crosshaircolor_b = 255
+[Console] cl_crosshairalpha = 255
+[Console] cl_crosshair_recoil = false
+[Console] cl_crosshaircolor = 5
+[Console] cl_crosshair_drawoutline = false
+[Console] cl_crosshairdot = false
+[Console] cl_crosshairgap_useweaponvalue = false
+[Console] cl_crosshairusealpha = true
+[Console] cl_crosshair_t = false
+[Console] cl_crosshairstyle = 4
+[Console] cl_crosshair_dynamic_splitalpha_innermod = 1.000000
+[Console] cl_crosshair_dynamic_splitalpha_outermod = 0.500000
+[Console] cl_crosshair_dynamic_maxdist_splitratio = 0.300000
+[Console] cl_crosshair_dynamic_splitdist = 7
+[Console] cl_fixedcrosshairgap = 3.000000
+[Console] cl_crosshairgap = -3.000000
+[Console] cl_crosshairsize = 0.300000
+[Console] cl_crosshairthickness = 0.800000

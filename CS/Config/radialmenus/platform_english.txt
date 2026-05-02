@@ -25,20 +25,32 @@
 	"CFG_LOAD_KZ"            "LOAD KZ "
 	"CFG_LOAD_REFRAG"            "LOAD REFRAG "
 
-	"CFG_VC_VOL_DOWN"            "VOIP VOL DOWN \n  \n  \n  \n  \n  \n  \n  \n  \n " 
-	"CFG_VOL_UP"            "VOL UP \n  \n  \n  \n  \n  \n  \n  \n  \n "  
-	"CFG_SWITCH_MODE"            "VOL 0.1 oder 0.8 \n  \n  \n  \n  \n  \n  \n  \n  \n "  
-	"CFG_VOL_DOWN"            "VOL DOWN \n  \n  \n  \n  \n  \n  \n  \n  \n "  
+	"SOUND_VC_VOL_DOWN"            "VOIP VOL DOWN \n  \n  \n  \n  \n  \n  \n  \n  \n " 
+	"SOUND_VOL_UP"            "VOL UP \n  \n  \n  \n  \n  \n  \n  \n  \n "  
+	"SOUND_SWITCH_MODE"            "VOL 0.1 oder 0.8 \n  \n  \n  \n  \n  \n  \n  \n  \n "  
+	"SOUND_VOL_DOWN"            "VOL DOWN \n  \n  \n  \n  \n  \n  \n  \n  \n "  
 	"CFG_TIMEOUT"            "TIMOUT \n  \n  \n  \n  \n  \n  \n  \n  \n "  
 	"CFG_CLUTCH" 			"CLUTCH"
     "CFG_MUTE_ENEMY"        "GEGNER GUSCH"
 
-"CFG_CMD_WHEEL"    "........clutch........ \n .........vc- ---- vc+.......... \n ........ vol- ------ vol+ ......... \n .....timeout - ggnr mute. ....\n"
-"CFG_CONF_WHEEL"    "........ chz ..........\n .......democfg - chd ......\n .......praccfg ----- chc .... \n......refrgcfg -- maincfg..  \n"
+    "CFG_CMD_WHEEL"    "........clutch........ \n .........vc- ---- vc+.......... \n ........ vol- ------ vol+ ......... \n .....timeout - ggnr mute. ....\n"
+    "CFG_CONF_WHEEL"    "........ chz ..........\n .......democfg - chd ......\n .......praccfg ----- chc .... \n......refrgcfg -- maincfg..  \n"
 
 	"CFG_FUN_WHEEL"            "....... EGAL ...... \n ....... cray     sad ...... \n ....... rauchen     eco ...... \n ....... quote    stripme ...... \n  
-	
-	
+
+
+"FUN_WHEEL_GIBBY" "Gibby"
+"FUN_WHEEL_QUOTE" "Random Quote."
+"FUN_WHEEL_NEWS" "Random News"
+"FUN_WHEEL_EGAL" "EGAL"
+"FUN_WHEEL_SAD" "SAD"
+"FUN_WHEEL_RAUCHEN" "rauchen"
+"FUN_WHEEL_ECO" "eco"
+"FUN_WHEEL_SCHIMPFEN" "Gibby"
+
+"CFG_WHEEL_SOUND"
+
 }
+
 
 
